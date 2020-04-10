@@ -8,7 +8,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 // git project https://github.com/erikflowers/weather-icons
 import "weather-icons/css/weather-icons.css";
 
-const Api_Key = "0b9513fe6a317ddb98436e8b36b77d97";
+const Api_Key = "429736441cf3572838aa10530929f7cd";
 
 class App extends React.Component {
   constructor() {
